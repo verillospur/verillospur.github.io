@@ -1,0 +1,23 @@
+{
+  "name": "verillospur.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "foundation-sites": "^6.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verillospur/verillospur.github.io.git"
+  },
+  "author": "BS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verillospur/verillospur.github.io/issues"
+  },
+  "homepage": "https://github.com/verillospur/verillospur.github.io#readme"
+}
