@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Your title: Benjamin Sturley
+	Site: https://verillospur.github.io/
+	Telegram: @mr_benjaminj
+    Twitter: @LordBenjaLaSturl
+
+# THANKS
+
+    Me! 
+	Foundation
+	Node
+	StackOverflow
+	T'internet
+	TopDank
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Node
+    Foundation, jQuery
