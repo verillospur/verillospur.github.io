@@ -1,0 +1,19 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css") screen;
+
+body { margin: 0px; padding: 0px; }
+.hid			{ display: none; }
+.titleLink		{ }
+
+#author { 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14pt;
+    background-image: url('../../assets/images/IMG_9mgt99.jpg');
+    xxbackground-image: url('../../assets/images/IMG_20200317_174052.jpg'); 
+    background-size: 750px;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-X: right;
+    border: 3px solid red;
+    padding: 15px;
+    height: 300px;
+    }
