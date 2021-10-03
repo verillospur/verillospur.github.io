@@ -5,8 +5,9 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', 
     { 
-      title: 'Orders',
-      subtitle: 'Incoming Orders'
+      title: 'Trafalgar Systems',
+      subtitle: 'Atomic Node Experimental Core Systems',
+      experimental_title: 'MyMessages: Telegram App'
     }
   );
 });
